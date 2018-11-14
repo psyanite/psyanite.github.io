@@ -1,6 +1,4 @@
 # psyanite.github.io
 :ice_cream: Sass & HTML fun
 
-https://psyanite.github.io/
-
-
+Only available on desktops, sorry! https://psyanite.github.io/
